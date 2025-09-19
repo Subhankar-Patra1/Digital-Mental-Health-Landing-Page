@@ -161,7 +161,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #0f172a 0%, #1e293b 25%, #334155 50%, #475569 75%, #64748b 100%);
+    background: linear-gradient(135deg, #181A2F 0%, #242E49 25%, #37415C 50%, #FDA481 75%, #B4182D 90%, #541628 100%);
     min-height: 100vh;
     display: flex;
     align-items: center;
