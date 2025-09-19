@@ -837,6 +837,13 @@ body {
     font-weight: 600;
 }
 
+.community-feature p {
+    color: #374151;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
 .feature-preview {
     margin-top: 1.5rem;
     padding: 1rem;
@@ -849,6 +856,13 @@ body {
     padding: 1rem;
     border-radius: 8px;
     border-left: 4px solid #10b981;
+}
+
+.forum-post p {
+    color: #374151;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0.5rem 0;
 }
 
 .post-header {
