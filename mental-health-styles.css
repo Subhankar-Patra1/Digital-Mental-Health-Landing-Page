@@ -374,14 +374,14 @@ body {
 
 .section-header h2 {
     font-size: 2.5rem;
-    color: #0c0c0c;
+    color: #fafafa;
     margin-bottom: 1rem;
     font-weight: 700;
 }
 
 .section-header p {
     font-size: 1.2rem;
-    color: #000000;
+    color: #ffffff;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -393,7 +393,7 @@ body {
 }
 
 .challenge-card {
-    background: rgb(231, 227, 227);
+    background: rgb(255, 255, 255);
     padding: 2rem;
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
@@ -3130,6 +3130,14 @@ body {
 .about-section {
     padding: 80px 0;
     background: white;
+}
+
+.about-section .section-header h2 {
+    color: #1f2937;
+}
+
+.about-section .section-header p {
+    color: #374151;
 }
 
 .about-story {
