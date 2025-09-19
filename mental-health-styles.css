@@ -777,6 +777,13 @@ body {
     font-weight: 600;
 }
 
+.community-info p {
+    color: #374151;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
 .community-stats {
     display: flex;
     gap: 2rem;
@@ -2725,7 +2732,7 @@ body {
 .progress-fill {
     width: 80%;
     height: 100%;
-    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    background: linear-gradient(135deg, #10b981 0%, #dee0e0 100%);
     border-radius: 10px;
     animation: progressGlow 2s ease-in-out infinite alternate;
 }
