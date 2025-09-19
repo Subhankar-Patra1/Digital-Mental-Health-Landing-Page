@@ -364,7 +364,7 @@ body {
 /* Challenges Section */
 .challenges {
     padding: 80px 0;
-    background: #1e293b;
+    background: #1B3034;
 }
 
 .section-header {
@@ -374,14 +374,14 @@ body {
 
 .section-header h2 {
     font-size: 2.5rem;
-    color: #1f2937;
+    color: #0c0c0c;
     margin-bottom: 1rem;
     font-weight: 700;
 }
 
 .section-header p {
     font-size: 1.2rem;
-    color: #6b7280;
+    color: #000000;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -393,7 +393,7 @@ body {
 }
 
 .challenge-card {
-    background: white;
+    background: rgb(231, 227, 227);
     padding: 2rem;
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
