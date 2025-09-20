@@ -3129,15 +3129,15 @@ body {
 /* About Section */
 .about-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #37415C 0%, #242E49 25%, rgba(253, 164, 129, 0.3) 50%, #181A2F 75%, #37415C 100%);
+    background: linear-gradient(135deg, rgba(253, 164, 129, 0.2) 0%, rgba(255, 255, 255, 0.9) 25%, rgba(253, 164, 129, 0.15) 50%, rgba(255, 255, 255, 0.95) 75%, rgba(181, 24, 45, 0.1) 100%);
 }
 
 .about-section .section-header h2 {
-    color: #f8fafc;
+    color: #1f2937;
 }
 
 .about-section .section-header p {
-    color: #e2e8f0;
+    color: #374151;
 }
 
 .about-story {
