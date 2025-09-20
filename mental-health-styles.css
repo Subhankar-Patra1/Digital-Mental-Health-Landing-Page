@@ -364,7 +364,15 @@ body {
 /* Challenges Section */
 .challenges {
     padding: 80px 0;
-    background: #1B3034;
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+}
+
+.challenges .section-header h2 {
+    color: #1f2937 !important;
+}
+
+.challenges .section-header p {
+    color: #374151 !important;
 }
 
 .section-header {
