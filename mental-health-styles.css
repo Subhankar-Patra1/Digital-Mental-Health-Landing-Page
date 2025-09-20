@@ -705,7 +705,15 @@ body {
 /* Community Section */
 .community-section {
     padding: 80px 0;
-    background: #f8fafc;
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+}
+
+.community-section .section-header h2 {
+    color: #1f2937 !important;
+}
+
+.community-section .section-header p {
+    color: #374151 !important;
 }
 
 .community-content {
