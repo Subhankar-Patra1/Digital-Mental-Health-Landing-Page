@@ -364,7 +364,15 @@ body {
 /* Challenges Section */
 .challenges {
     padding: 80px 0;
-    background: linear-gradient(135deg, #37415C 0%, #242E49 50%, #181A2F 100%);
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+}
+
+.challenges .section-header h2 {
+    color: #1f2937 !important;
+}
+
+.challenges .section-header p {
+    color: #374151 !important;
 }
 
 .section-header {
@@ -441,7 +449,7 @@ body {
 /* Chatbot Section */
 .chatbot-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, rgba(253, 164, 129, 0.3) 0%, #37415C 40%, #242E49 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
 }
 
@@ -667,7 +675,7 @@ body {
 /* Stats Section */
 .stats-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #242E49 0%, #37415C 50%, rgba(181, 24, 45, 0.2) 100%);
+    background: #1f2937;
     color: white;
 }
 
@@ -705,7 +713,7 @@ body {
 /* Community Section */
 .community-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, rgba(253, 164, 129, 0.15) 0%, rgba(255, 255, 255, 0.9) 40%, rgba(255, 255, 255, 0.9) 60%, rgba(253, 164, 129, 0.1) 100%);
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
 }
 
 .community-content {
@@ -988,7 +996,7 @@ body {
 /* Student Dashboard Section - Completely Redesigned */
 .student-dashboard {
     padding: 100px 0;
-    background: linear-gradient(135deg, #242E49 0%, #37415C 30%, rgba(253, 164, 129, 0.1) 70%, rgba(181, 24, 45, 0.1) 100%);
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
     position: relative;
     overflow: hidden;
 }
@@ -1047,7 +1055,7 @@ body {
 .dashboard-title {
     font-size: 4.5rem;
     font-weight: 900;
-    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 50%, #cbd5e1 100%);
+    background: linear-gradient(135deg, #1f2937 0%, #374151 50%, #4b5563 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1057,7 +1065,7 @@ body {
 
 .dashboard-subtitle {
     font-size: 1.3rem;
-    color: #cbd5e1;
+    color: #374151;
     line-height: 1.6;
     margin-bottom: 3rem;
     max-width: 95%;
@@ -1951,8 +1959,8 @@ body {
 /* CTA Section */
 .cta-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #1e40af 0%, #7c3aed 100%);
-    color: white;
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+    color: #1f2937;
     text-align: center;
 }
 
@@ -1985,8 +1993,8 @@ body {
 
 /* Footer */
 .footer {
-    background: #1f2937;
-    color: white;
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+    color: #1f2937;
     padding: 60px 0 20px;
 }
 
@@ -2125,7 +2133,7 @@ body {
 /* Relax Zone Section - Completely Redesigned */
 .relax-zone {
     padding: 100px 0;
-    background: linear-gradient(135deg, #181A2F 0%, rgba(253, 164, 129, 0.2) 30%, rgba(181, 24, 45, 0.1) 70%, #242E49 100%);
+    background: linear-gradient(135deg, #0f1419 0%, #1a202c 25%, #2d3748 50%, #1a202c 75%, #0f1419 100%);
     position: relative;
     overflow: hidden;
 }
@@ -3010,19 +3018,19 @@ body {
 /* FAQ Section */
 .faq-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #181A2F 0%, #242E49 30%, #37415C 70%, rgba(84, 22, 40, 0.3) 100%);
-    color: #e2e8f0;
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+    color: #1f2937;
 }
 
 .faq-section .section-header h2 {
-    color: #e2e8f0 !important;
+    color: #1f2937 !important;
     font-size: 2.5rem;
     margin-bottom: 1rem;
     font-weight: 700;
 }
 
 .faq-section .section-header p {
-    color: #cbd5e1 !important;
+    color: #374151 !important;
     font-size: 1.2rem;
     max-width: 600px;
     margin: 0 auto;
@@ -3129,7 +3137,7 @@ body {
 /* About Section */
 .about-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, rgba(253, 164, 129, 0.3) 0%, rgba(255, 255, 255, 0.95) 25%, rgba(181, 24, 45, 0.2) 50%, rgba(255, 255, 255, 0.9) 75%, rgba(253, 164, 129, 0.15) 100%);
+    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
 }
 
 .about-section .section-header h2 {
