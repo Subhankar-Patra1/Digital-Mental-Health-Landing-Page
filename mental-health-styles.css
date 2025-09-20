@@ -3129,7 +3129,7 @@ body {
 /* About Section */
 .about-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #541628 0%, #B4182D 25%, #FDA481 50%, #37415C 75%, #242E49 100%);
+    background: linear-gradient(135deg, #37415C 0%, #242E49 25%, rgba(253, 164, 129, 0.3) 50%, #181A2F 75%, #37415C 100%);
 }
 
 .about-section .section-header h2 {
