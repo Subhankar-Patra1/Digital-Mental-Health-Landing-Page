@@ -364,15 +364,7 @@ body {
 /* Challenges Section */
 .challenges {
     padding: 80px 0;
-    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
-}
-
-.challenges .section-header h2 {
-    color: #1f2937 !important;
-}
-
-.challenges .section-header p {
-    color: #374151 !important;
+    background: #1B3034;
 }
 
 .section-header {
@@ -713,7 +705,7 @@ body {
 /* Community Section */
 .community-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+    background: #f8fafc;
 }
 
 .community-content {
@@ -996,7 +988,7 @@ body {
 /* Student Dashboard Section - Completely Redesigned */
 .student-dashboard {
     padding: 100px 0;
-    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
+    background: linear-gradient(135deg, #0a0e14 0%, #151b23 25%, #1e2731 50%, #151b23 75%, #0a0e14 100%);
     position: relative;
     overflow: hidden;
 }
@@ -1055,7 +1047,7 @@ body {
 .dashboard-title {
     font-size: 4.5rem;
     font-weight: 900;
-    background: linear-gradient(135deg, #1f2937 0%, #374151 50%, #4b5563 100%);
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 50%, #cbd5e1 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1065,7 +1057,7 @@ body {
 
 .dashboard-subtitle {
     font-size: 1.3rem;
-    color: #374151;
+    color: #cbd5e1;
     line-height: 1.6;
     margin-bottom: 3rem;
     max-width: 95%;
@@ -1959,8 +1951,8 @@ body {
 /* CTA Section */
 .cta-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
-    color: #1f2937;
+    background: linear-gradient(135deg, #1e40af 0%, #7c3aed 100%);
+    color: white;
     text-align: center;
 }
 
@@ -1993,8 +1985,8 @@ body {
 
 /* Footer */
 .footer {
-    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
-    color: #1f2937;
+    background: #1f2937;
+    color: white;
     padding: 60px 0 20px;
 }
 
@@ -3018,19 +3010,19 @@ body {
 /* FAQ Section */
 .faq-section {
     padding: 80px 0;
-    background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%);
-    color: #1f2937;
+    background: linear-gradient(135deg, #1e293b 0%, #334155 50%, #475569 100%);
+    color: #e2e8f0;
 }
 
 .faq-section .section-header h2 {
-    color: #1f2937 !important;
+    color: #e2e8f0 !important;
     font-size: 2.5rem;
     margin-bottom: 1rem;
     font-weight: 700;
 }
 
 .faq-section .section-header p {
-    color: #374151 !important;
+    color: #cbd5e1 !important;
     font-size: 1.2rem;
     max-width: 600px;
     margin: 0 auto;
