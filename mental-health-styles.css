@@ -597,11 +597,10 @@ body {
 }
 
 .bot-message {
-    background: #4f46e5;
+    background: #374151;
     color: #e5e7eb;
     align-self: flex-start;
-    border-radius: 18px;
-    border-bottom-left-radius: 8px;
+    border-bottom-left-radius: 5px;
 }
 
 .user-message {
@@ -1949,11 +1948,14 @@ body {
 }
 
 .dashboard-mockup {
-    background: #f8fafc;
+    background: #1f1e1e;
     border-radius: 15px;
     padding: 20px;
     border: 1px solid #e5e7eb;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1), 
+                0 0 30px rgba(16, 185, 129, 0.4),
+                0 0 60px rgba(16, 185, 129, 0.2),
+                0 0 90px rgba(16, 185, 129, 0.1);
 }
 
 .dashboard-header h4 {
