@@ -597,10 +597,11 @@ body {
 }
 
 .bot-message {
-    background: #374151;
+    background: #4f46e5;
     color: #e5e7eb;
     align-self: flex-start;
-    border-bottom-left-radius: 5px;
+    border-radius: 18px;
+    border-bottom-left-radius: 8px;
 }
 
 .user-message {
